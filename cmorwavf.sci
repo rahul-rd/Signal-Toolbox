@@ -5,7 +5,8 @@ funcprot(0);
 // Calling Sequence
 //	[psi,x]=cmorwavf(lb,ub,n,fb,fc)
 // Parameters
-//	[lb,ub]: Real or complex valued vector or matrix
+//	lb: Real or complex valued vector or matrix
+//	ub: Real or complex valued vector or matrix
 //	n: Real scalar strictly positive integer
 //	fb: Real or complex scalar value
 //	fc: Real or complex scalar value
